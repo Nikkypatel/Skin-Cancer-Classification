@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+warnings
+matplotlib
+datetime
+imdlearn
+tensorflow
+tensorflow.keras
+sklearn
+kaggle
+opendatasets
